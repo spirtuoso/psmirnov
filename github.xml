@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="2ff15fc5-1a8c-4a6a-90f7-0d3f0307d928" name="PeterSmirnov">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="spirtuoso" />
     <option name="AUTH_TYPE" value="BASIC" />
